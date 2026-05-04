@@ -15,6 +15,8 @@ p.s. VasilskY <(￣︶￣)>
 
 p.p.s Скорей всего, в игре есть какая-то система с отслеживанием ошибок игрока и противостояние ботам, поэтому иногда придётся стопать бота и совершать ошибки для максимизации денег (это не точно, только моя догадка, но при отсутствии ошибок как будто доход урезался и рыбки выше 6-й сложности не падают) (╥﹏╥)  
 
+P.P.P.S. Забыл сразу добавить, у меня 2К-монитор, скорей всего, если у вас разрешение не 2560х1440, у вас работать не будет, придётесь переписывать, в скрипте есть комментарии для помощи.  
+
 EN
 ---------------------------------------------------------------------------------------------------------------------------------------
 This bot only performs a mini-game with a stripe.   
@@ -31,3 +33,5 @@ Sorry for the English translator (*ﾉωﾉ)
 p.s. VasilskY <(￣︶￣)>   
 
 p.p.s. Most likely, the game has some kind of system with tracking player errors and countering bots, so sometimes you will have to stop the bot and make mistakes to maximize money (this is not accurate, just my guess, but in the absence of errors, as if the income has been cut and the fish above the 6th difficulty do not fall) (╥﹏╥)
+
+P.P.P.S. I forgot to add right away, I have a 2K monitor, most likely, if your resolution is not 14x1440, it will not work for you, you will have to rewrite, there are comments in the script for help.  
